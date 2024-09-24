@@ -1,0 +1,41 @@
+<pagina html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Recetas de comidas</title>
+ </head>
+ <body>
+  <h1>Recetas</h1>
+  <h2>Milanesas</h2>
+  <h3>Origen</h3>
+  <p>Las milanesas tienen su origen en Italia, específicamente en la "cotoletta alla milanese" de Milán. Se popularizaron en América Latina, especialmente en Argentina y México, donde cada país ha adaptado la receta utilizando diferentes tipos de carne y guarniciones. Así, se han convertido en un platillo emblemático en muchas mesas latinoamericanas.</p>
+
+  <h4>Lista de ingredientes</h4>
+
+  <ul>
+    <li>1/2 kilo de milanesas de nalga finitas</li>
+    <li>1/2 kilo de Pan rallado</li>
+    <li>1 Huevo</li>
+    <li>Sal o Pimienta</li>
+    <li>ajo y perejil</li>
+    <li>1 litro de Aceite</li>
+  </ul>
+
+  <h5>Preparacion</h5>
+
+  <ol>
+    <li>preparar la carne</li>
+    <li>sazonar</li>
+    <li>empanizar</li>
+    <li>freir</li>
+    <li>escurrir</li>
+    <li>servir</li>
+  </ol>
+
+  <img src="https://www.bonviveur.es/recetas/milanesas-de-ternera"alt="https://www.bonviveur.es/recetas/milanesas-de-ternera">
+
+  <video src="https://youtu.be/VA07MRLgUN0?si=n5mVzYn3mgT4x3-3"</video>
+
+  <iframe src="https://maps.app.goo.gl/LJeQ3FG7GmKg1hAh9"</iframe>
+
+</body>
