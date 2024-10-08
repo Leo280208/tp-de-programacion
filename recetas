@@ -5,32 +5,40 @@
   <title>Recetas de comidas</title>
  </head>
  <body>
+ <header>
   <h1>Recetas</h1>
+ </header>
+ <main>
+  <section>
   <h2>Milanesas</h2>
   <h3>Origen</h3>
   <p>Las milanesas tienen su origen en Italia, específicamente en la "cotoletta alla milanese" de Milán. Se popularizaron en América Latina, especialmente en Argentina y México, donde cada país ha adaptado la receta utilizando diferentes tipos de carne y guarniciones. Así, se han convertido en un platillo emblemático en muchas mesas latinoamericanas.</p>
+ </section>
 
-  <h4>Lista de ingredientes</h4>
+   <aside class="<h4>Lista de ingredientes</h4>
 
-  <ul>
-    <li>1/2 kilo de milanesas de nalga finitas</li>
-    <li>1/2 kilo de Pan rallado</li>
-    <li>1 Huevo</li>
-    <li>Sal o Pimienta</li>
-    <li>ajo y perejil</li>
-    <li>1 litro de Aceite</li>
-  </ul>
+   <ul>
+     <li>1/2 kilo de milanesas de nalga finitas</li>
+     <li>1/2 kilo de Pan rallado</li>
+     <li>1 Huevo</li>
+     <li>Sal o Pimienta</li>
+     <li>ajo y perejil</li>
+     <li>1 litro de Aceite</li>
+   </ul>
 
-  <h5>Preparacion</h5>
+   <h5>Preparacion</h5>
 
-  <ol>
-    <li>preparar la carne</li>
-    <li>sazonar</li>
-    <li>empanizar</li>
-    <li>freir</li>
-    <li>escurrir</li>
-    <li>servir</li>
-  </ol>
+   <ol>
+     <li>preparar la carne</li>
+     <li>sazonar</li>
+     <li>empanizar</li>
+     <li>freir</li>
+     <li>escurrir</li>
+     <li>servir</li>
+   </ol>">
+
+  </aside>
+</main>
 
   <img src="https://www.bonviveur.es/recetas/milanesas-de-ternera"alt="https://www.bonviveur.es/recetas/milanesas-de-ternera">
 
@@ -55,5 +63,25 @@
   width: 300px;
   height: 200px;
 }></h9>
+<nav>
+  <h10>Paginas relacionadas</h10>
+  <a href="https://elgourmet.com/recetas/categorias/noquis/">Como hacer ñoquis</a>
+  <a gref="https://www.kiwilimon.com/receta/platos-fuertes/empanadas-argentinas-faciles">Como hacer empanadas</a>
+  <a href="https://webosfritos.es/bizcocho-de-chocolate/">Como hacer bizcocho de chocolate</a>
+  <a href?="https://www.recetasgratis.net/receta-de-medialunas-con-masa-de-tarta-77666.html">Como hacer medialunas</a>
+</nav>
 
+<footer>
+  <div class="social-links">
+  <a href="https://www.facebook.com"  target="_blank">Facebook</a>
+  <a href="https://www.twitter.com"target="_blank">Twitter</a>
+  <a href="https://www.instagram.com"target="_blank">Instagram</a>
+  <a href="https://www.linkedin.com"target="_blank">LinkedIn</a>
+  </div>
+
+  <div class="whatsapp-icon"onclick="window.open('https://wa. me/1234567890', '_blank')">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/WhatsApp.svg"alt="WhatsApp">
+</div>
+
+</footer>
 </body>
