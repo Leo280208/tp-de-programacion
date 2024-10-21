@@ -6,6 +6,76 @@
  </head>
  <body>
  <header>
+<body>
+      <style>
+           body {
+               font-family: Arial, sans-serif;
+               margin: 0;
+           }
+   
+           .header, .footer {
+               display: flex;
+               align-items: center;
+               padding: 20px;
+               background-color: #333;
+               color: white;
+           }
+   
+           .header {
+               justify-content: space-between;
+           }
+   
+           .footer {
+               justify-content: space-between;
+           }
+   
+           .logo {
+               flex: 0 0 auto; /* No crecer ni encoger */
+           }
+   
+           .titulo {
+               flex: 1; /* Ocupa el espacio restante */
+               text-align: center;
+           }
+   
+           .redes-sociales {
+               flex: 0 0 auto; /* No crecer ni encoger */
+           }
+   
+           .item-footer {
+               flex: 1; /* Ocupa el espacio restante */
+               text-align: center;
+           }
+   
+           .icono {
+               margin: 0 10px; /* Espacio entre íconos */
+           }
+       </style>
+   </head>
+   <body>
+       <div class="header">
+           <div class="logo">
+               <img src="https://casserolamarket.com/products/milanesas-de-carne" alt="Logo" width="50"> <https://casserolamarket.com/products/milanesas-de-carne>
+           </div>
+           <div class="titulo">Recetas</div>
+           <div class="redes-sociales">
+               <a href="https://imgs.search.brave.com/g85RB-6u4hVGeU8Jba1LLqcJOd0lhz2JVzKAkYb-p2g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZmL0xvZ29fb2Zf/VHdpdHRlci5zdmc" class="icono">Logo of Twitter.svg</a>
+               <a href="https://imgs.search.brave.com/vtvA5Zu2Xa_BwBGOicvcV2JoTXmMl5_kQ7WHGNM4vJQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9i/L2I4LzIwMjFfRmFj/ZWJvb2tfaWNvbi5z/dmc" class="icono">2023 Facebook icon.svg</a>
+               <a href="https://imgs.search.brave.com/ONjB5xbBsEK-G16JyTTktF4Q_ql2sIKrwvSKRFa5nVo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9pZy1pbnN0/YWdyYW0taWNvbi5z/dmc" class="icono">Instagram logo.svg</a>
+           </div>
+       </div>
+   
+       <div class="footer">
+           <div class="item-footer">https://maps.app.goo.gl/8xMQNw9WeoFaMLgR6</div>
+           <div class="redes-sociales">
+             <a href="https://imgs.search.brave.com/g85RB-6u4hVGeU8Jba1LLqcJOd0lhz2JVzKAkYb-p2g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZmL0xvZ29fb2Zf/VHdpdHRlci5zdmc" class="icono">Logo of Twitter.svg</a>
+             <a href="https://imgs.search.brave.com/vtvA5Zu2Xa_BwBGOicvcV2JoTXmMl5_kQ7WHGNM4vJQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9i/L2I4LzIwMjFfRmFj/ZWJvb2tfaWNvbi5z/dmc" class="icono">2023 Facebook icon.svg</a>
+             <a href="https://imgs.search.brave.com/ONjB5xbBsEK-G16JyTTktF4Q_ql2sIKrwvSKRFa5nVo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9pZy1pbnN0/YWdyYW0taWNvbi5z/dmc" class="icono">Instagram logo.svg</a>
+           </div>
+           <div class="item-footer">Soy Leonardo Paredes y estoy haciendo el curso de programacion</div>
+       </div>
+   </body>
+   </html>
   <h1>Recetas</h1>
  </header>
  <main>
